@@ -9,7 +9,7 @@
 	url = https://gitee.com/jiakesiws/ieaseMusic.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [remote "github"]
-	url = https://gitee.com/jiakesiws/ieaseMusic.git
+	url = https://github.com/jiakesiws/ieaseMusic.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
